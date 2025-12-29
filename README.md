@@ -7,7 +7,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 
 ---
 
-## 1. [Lakehouse Architecture & Core Concepts](#category-1-lakehouse-architecture--core-concepts)
+## 1. [Lakehouse Architecture & Core Concepts](#lakehouse-architecture--core-concepts)
 - Databricks Lakehouse architecture
 - Delta Lake ACID & transactional protocol
 - Unified analytics: streaming + batch
