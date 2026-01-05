@@ -27,8 +27,8 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Auto-optimize, compaction, and data skipping
 - Z-ordering and partitioning strategies
 - Delta caching & storage layout design
-
 ---
+[More](documents/Delta%20Lake%20Internals%20%26%20Storage%20Architecture.md)
 
 ## 3. [Compute Architecture & Cluster Management](#category-3-compute-architecture--cluster-management)
 - Cluster types: Job, All-Purpose, SQL Warehouse
@@ -41,6 +41,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Driver/worker interactions and compute planning
 
 ---
+[More](documents/Compute%20Architecture%20%26%20Cluster%20Management.md)
 
 ## 4. [Data Ingestion & ETL/ELT Pipelines](#category-4-data-ingestion--etl-elt-pipelines)
 - Autoloader (cloudFiles) ingestion architecture
@@ -53,6 +54,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Workflows orchestration for ETL
 
 ---
+[More](documents/Data%20Ingestion%20%26%20ETL-ELT%20Pipelines.md)
 
 ## 5. [Streaming & Real-Time Architecture](#category-5-streaming--real-time-architecture)
 - Structured Streaming model & checkpointing
