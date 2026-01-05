@@ -29,6 +29,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Delta caching & storage layout design
   
 [More](documents/Delta%20Lake%20Internals%20%26%20Storage%20Architecture.md)
+[More](documents/Delta%20Lake%20Internals%20%26%20Storage%20Architecture_2.md)
 
 ## 3. [Compute Architecture & Cluster Management](#category-3-compute-architecture--cluster-management)
 - Cluster types: Job, All-Purpose, SQL Warehouse
