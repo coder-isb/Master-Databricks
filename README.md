@@ -27,7 +27,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Auto-optimize, compaction, and data skipping
 - Z-ordering and partitioning strategies
 - Delta caching & storage layout design
----
+  
 [More](documents/Delta%20Lake%20Internals%20%26%20Storage%20Architecture.md)
 
 ## 3. [Compute Architecture & Cluster Management](#category-3-compute-architecture--cluster-management)
@@ -39,8 +39,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Spot vs on-demand worker tradeoffs
 - Instance pools and cost-efficient cluster reuse
 - Driver/worker interactions and compute planning
-
----
+  
 [More](documents/Compute%20Architecture%20%26%20Cluster%20Management.md)
 
 ## 4. [Data Ingestion & ETL/ELT Pipelines](#category-4-data-ingestion--etl-elt-pipelines)
@@ -52,8 +51,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Error handling & recovery design
 - DLT (Delta Live Tables) fundamentals
 - Workflows orchestration for ETL
-
----
+- 
 [More](documents/Data%20Ingestion%20%26%20ETL-ELT%20Pipelines.md)
 
 ## 5. [Streaming & Real-Time Architecture](#category-5-streaming--real-time-architecture)
@@ -66,7 +64,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Streaming joins and aggregations
 - Multi-hop streaming Lakehouse patterns
 
----
+[More](documents/Streaming%20%26%20Real-Time%20Architecture.md)
 
 ## 6. [Security, Governance & Unity Catalog](#category-6-security--governance--unity-catalog)
 - Unity Catalog architecture and objects
@@ -78,7 +76,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Secure external locations
 - Secrets & credential passthrough
 
----
+[More](documents/Security%2C%20Governance%20%26%20Unity%20Catalog.md)
 
 ## 7. [Performance Optimization & Query Tuning](#category-7-performance-optimization--query-tuning)
 - Spark execution model: DAG, tasks, stages
@@ -90,7 +88,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Using Photon efficiently
 - End-to-end ETL performance optimization
 
----
+[More](documents/Performance%20Optimization%20%26%20Query%20Tuning.md)
 
 ## 8. [Storage Integration & External Data Lakes](#category-8-storage-integration--external-data-lakes)
 - Working with ADLS, S3, and GCS
@@ -101,7 +99,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Optimized object-store access patterns
 - External tables & Delta Sharing
 
----
+[More](documents/Storage%20Integration%20%26%20External%20Data%20Lakes.md)
 
 ## 9. [SQL Warehouses, BI & Serving Layer](#category-9-sql-warehouses--bi--serving-layer)
 - Databricks SQL Warehouse architecture
@@ -112,7 +110,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Dashboarding, alerts, and scheduled queries
 - Designing cost-efficient BI serving layers
 
----
+[More](documents/SQL%20Warehouses%2C%20BI%20%26%20Serving%20Layer.md)
 
 ## 10. [Machine Learning, Feature Store & MLOps](#category-10-machine-learning--feature-store--mlops)
 - MLflow tracking, registry, deployment
@@ -123,7 +121,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Serving ML models with low latency
 - Monitoring drift, quality, and lineage
 
----
+[More](documents/Machine%20Learning%2C%20Feature%20Store%20%26%20MLOps.md)
 
 ## 11. [Workflows, Orchestration & Automation](#category-11-workflows--orchestration--automation)
 - Databricks Workflows (multi-task jobs)
@@ -135,7 +133,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - IaC (Terraform, ARM, CloudFormation)
 - Secrets & credentials automation
 
----
+[More](documents/Workflows%2C%20Orchestration%20%26%20Automation.md)
 
 ## 12. [Cost Management, Monitoring & Operational Excellence](#category-12-cost-management--monitoring--operational-excellence)
 - Cluster cost structures
@@ -147,7 +145,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Spot instance strategy
 - Cost governance policies for teams
 
----
+[More](documents/Cost%20Management%2C%20Monitoring%20%26%20Operational%20Excellence.md)
 
 ## 13. [Disaster Recovery, High Availability & Multi-Region Architecture](#category-13-disaster-recovery--high-availability--multi-region-architecture)
 - DR strategies for Delta Lake
@@ -159,7 +157,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Fault-tolerant streaming design
 - Recovering accidental deletes and corrupt files
 
----
+[More](documents/Disaster%20Recovery%2C%20High%20Availability%20%26%20Multi-Region%20Architecture.md)
 
 ## 14. [External Integrations & Ecosystem Architecture](#category-14-external-integrations--ecosystem-architecture)
 - Kafka, Event Hubs, Kinesis integration
@@ -170,7 +168,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Integration with ML systems (SageMaker, Azure ML)
 - Downstream system exports
 
----
+[More](documents/External%20Integrations%20%26%20Ecosystem%20Architecture.md)
 
 ## 15. [Scenario-Based System Design & Architecture Problems](#category-15-scenario-based-system-design--architecture-problems)
 - End-to-end Lakehouse design
@@ -183,3 +181,5 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Governance and security for enterprises
 - SCD1, SCD2, CDC modeling
 - High-throughput ingestion architecture
+
+[More](documents/Scenario-Based%20System%20Design%20%26%20Architecture%20Problems.md)
