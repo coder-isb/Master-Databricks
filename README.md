@@ -16,7 +16,7 @@ scenario-based reasoning, tradeoffs, performance analysis, and best practices.
 - Photon engine & performance model
 - Metadata management, catalog concepts
 - Differences from Hadoop/Spark clusters
-
+- More (documents/Lakehouse Architecture & Core Concepts.md)
 ---
 
 ## 2. [Delta Lake Internals & Storage Architecture](#category-2-delta-lake-internals--storage-architecture)
